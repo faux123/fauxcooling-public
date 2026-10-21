@@ -1,5 +1,7 @@
 # FauxCooling
 
+> **News, help, and the FauxWall beta sign-up are on the [FauxApps Discord](https://discord.gg/ceyPguKNbu).**
+
 A fan controller for Android gaming handhelds. FauxCooling watches how hot the chip is, turns the fan up
 as the heat builds, and turns it back down when things cool off. You pick the temperature it aims for.
 
@@ -40,7 +42,9 @@ Every feature is free. If the app is useful to you, you can support the time tha
 
 ## More apps by the same developer
 
-[The full list, with where to get each one](https://fauxvkdb.canonspike.com/about).
+[The full list, with where to get each one](https://fauxapps.canonspike.com/).
+
+Questions and news: the [FauxApps Discord](https://discord.gg/ceyPguKNbu).
 
 ## License
 
